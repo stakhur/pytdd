@@ -1,0 +1,7 @@
+Pytest documentation:
+https://docs.pytest.org
+- Plug-ins:
+- pytest-randomly: randomizes test order
+- pytest-cov: integrates the coverage package
+- pytest-django: extra fixtures for Django testing
+- pytest-bdd: integration with Gherkin (Cucumber) Behavior Driven Development testing
